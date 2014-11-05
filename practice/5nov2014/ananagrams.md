@@ -20,7 +20,7 @@ Input will consist of a single line. Words consist of up to 20 upper and/or lowe
 Output
 ------
 
-Output will consist of a single. Each line will consist of a single word that is a relative ananagram in the input dictionary. Words must be output in lexicographic (case-sensitive) order. There will always be at least one relative ananagram.
+Output will consist of a single line. Each line will consist of a single word that is a relative ananagram in the input dictionary. Words must be output in lexicographic (case-sensitive) order. There will always be at least one relative ananagram.
 
 Sample input
 ------------
