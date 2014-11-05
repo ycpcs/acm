@@ -3,6 +3,8 @@ layout: default
 title: "Ananagrams"
 ---
 
+This problem came from [uva.onlinejudge.org](http://uva.onlinejudge.org), but the site is down so I can't link to the original problem.
+
 Ananagrams
 ==========
 
