@@ -1,4 +1,0 @@
-baseurl: "http://ycpcs.github.io/acm"
-markdown: rdiscount
-highlighter: pygments
-coursename: "CS 201"
